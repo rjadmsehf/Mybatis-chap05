@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
 <mapper namespace="com.ohgiraffers.section01.xmlmapper.ElementTestMapper">
 
     <!-- 필기. Mapper.xml 파일에서 사용할 수 있는 엘리먼트는 총 9가지 이다.
