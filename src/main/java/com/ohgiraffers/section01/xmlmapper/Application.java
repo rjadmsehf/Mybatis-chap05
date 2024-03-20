@@ -18,7 +18,7 @@ public class Application {
             System.out.println("4. <insert> 서브 메뉴");
             System.out.print("메뉴 번호를 입력하세요 : ");
             int no = sc.nextInt();
-
+//주석
             switch (no) {
                 case 1 : elementTestService.selectCacheTest();  break;
                 case 2 : resultMapSubMenu();  break;
